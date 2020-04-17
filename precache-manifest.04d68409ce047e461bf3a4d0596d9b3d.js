@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfaa4af2a42879c01495c16b5caf29db",
+    "revision": "82ea7efbbc395880b7fdb3985160240d",
     "url": "/Crio-Launch-Feb-2020-sammedadmuthe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-sammedadmuthe/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "c95d96dee939fdc19256",
+    "revision": "f022d0dc8e406c4a3350",
     "url": "/Crio-Launch-Feb-2020-sammedadmuthe/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-sammedadmuthe/static/js/2.dba82b9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c95d96dee939fdc19256",
-    "url": "/Crio-Launch-Feb-2020-sammedadmuthe/static/js/main.af2ed3d0.chunk.js"
+    "revision": "f022d0dc8e406c4a3350",
+    "url": "/Crio-Launch-Feb-2020-sammedadmuthe/static/js/main.f87e0fa2.chunk.js"
   },
   {
     "revision": "ce0b724e40f16e67c35b",
